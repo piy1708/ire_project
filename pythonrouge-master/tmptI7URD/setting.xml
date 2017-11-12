@@ -1,0 +1,14 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<MODEL-ROOT>./tmptI7URD/reference</MODEL-ROOT>
+<PEER-ROOT>./tmptI7URD/system</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">0.txt</P>
+</PEERS>
+<MODELS>
+<M ID="0">0_0.txt</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>

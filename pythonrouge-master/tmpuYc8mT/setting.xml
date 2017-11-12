@@ -1,0 +1,32 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<MODEL-ROOT>./sample/reference/</MODEL-ROOT>
+<PEER-ROOT>./sample/summary/</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">summaryB.txt</P>
+</PEERS>
+<MODELS>
+<M ID="0">summaryB.4.txt</M>
+<M ID="1">summaryB.1.txt</M>
+<M ID="2">summaryB.3.txt</M>
+<M ID="3">summaryB.2.txt</M>
+</MODELS>
+</EVAL>
+<EVAL ID="2">
+<MODEL-ROOT>./sample/reference/</MODEL-ROOT>
+<PEER-ROOT>./sample/summary/</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">summaryA.txt</P>
+</PEERS>
+<MODELS>
+<M ID="0">summaryA.4.txt</M>
+<M ID="1">summaryA.3.txt</M>
+<M ID="2">summaryA.2.txt</M>
+<M ID="3">summaryA.1.txt</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>
